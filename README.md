@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# A simple mod which allows make the shopkeeper completely friedndly, meaning that he doesn't attack anyone anymore.
+
